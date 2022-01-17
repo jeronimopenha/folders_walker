@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+**/test/*
+**/__pycache__
+**/.idea/*
+**/test_benches
+**/benchmarks/cpu
+**/benchmarks/gpu
+**/*.tsv
+**/tests/*
